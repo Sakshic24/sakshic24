@@ -44,6 +44,6 @@ I'm a passionate **Full Stack Web Developer** with hands-on experience in creati
 ## 📫 Let's Connect
 - 📄 https://github.com/Sakshic24
 -  Linkedin- https://www.linkedin.com/in/sakshi-chaurasiya-691360256/
-- 🌐 sakshii.tech
+- 🌐 [sakshii.tech](https://www.sakshii.tech)
 
 Thanks for stopping by! I'm always open to new ideas, feedback, and collaboration 🚀
